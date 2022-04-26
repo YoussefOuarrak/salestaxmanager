@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'uikit/dist/js/uikit.js'; 
+import 'uikit/dist/css/uikit.css';
 import './index.css';
+import './style/style.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 

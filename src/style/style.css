@@ -1,0 +1,50 @@
+/*Header*/
+
+.main-nav-wrapper {
+    position: fixed;
+    bottom: -2px;
+    width: 100%;
+    z-index: 1;
+    height: auto;
+}
+
+
+.nav-ul-icon {
+    font-size: 30px;
+}
+
+.content {
+    margin: 50px 20px;
+}
+
+.uk-navbar-nav>li>a, .uk-navbar-item, .uk-navbar-toggle {
+
+    font-size: 1rem;
+}
+
+.container {
+    margin-bottom: 100px;
+}
+
+.products-card {
+    max-width: 1000px;
+}
+
+.uk-card-body.products {
+    min-height: 116px;
+}
+
+
+@media (min-width: 768px) {
+    .shoppingcard {
+        min-width: 415px;
+    }
+}
+
+.accordionopen {
+    background-color: #f8f8f8;
+}
+
+.remove {
+    color: #e21f1f;
+}
